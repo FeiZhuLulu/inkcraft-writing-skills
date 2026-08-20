@@ -53,7 +53,7 @@ genres/
 - **自动分流**：使用 `genres/SKILL.md`（`write-genre`），根据任务描述自动路由到具体体裁。
 - **场景生成**：Agent 在写具体某场戏时，按需打开对应体裁的 `03-methods.md` 查阅具体执行步骤。
 
-### 给人读
+### 自己读
 
 从 [体裁目录](./genres/README.md) 打开对应体裁：
 - 定整本书与细纲看 `01-structure.md`
